@@ -5,7 +5,7 @@
 ## Brought to you by
 
 <p><a title="Shejan Mahamud" href="https://shejanmahamud.me">Shejan Mahamud</a></br>
-Minimal Portfolio Template For Developers and Designers<br> <a title="Shejan Mahamud" href="https://shejanmahamud.me">Know more</a></p>
+Minimal Portfolio Template For Developers and Designers. Fully Responsive Design Using HTML & TAILWIND CSS<br> <a title="Shejan Mahamud" href="https://shejanmahamud.me">Know more</a></p>
 
 ### Prerequisites
 
@@ -15,7 +15,7 @@ Configure Tailwind CSS with post.css Method
 ## Generate Dist Folder Using Below Command
 
 ```
-git clone https://github.com/Minimal-Portfolio-Template
+https://github.com/ShejanMahamud/Minimal-Portfolio-Template
 
 ```
 
