@@ -9,20 +9,28 @@ Minimal Portfolio Template For Developers and Designers<br> <a title="Shejan Mah
 
 ### Prerequisites
 
-Node JS Installed
+Node JS Installed<br>
 Configure Tailwind CSS with post.css Method
 
-## Recommended settings for a better experience
+## Generate Dist Folder Using Below Command
 
 ```
 git clone https://github.com/Minimal-Portfolio-Template
 
-Open with VS Code
+```
+
+Open package.json and replace:
+
+```
+
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+```
 
 Open Terminal with CTRL+J
 
-Type ``npm run build``
-
-```
+Type ``npm run build`
 
 <p align="center">Copyright &copy; 2023 Shejan Mahamud</p>
