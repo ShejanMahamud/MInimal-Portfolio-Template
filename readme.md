@@ -22,15 +22,15 @@ git clone https://github.com/Minimal-Portfolio-Template
 Open package.json and replace:
 
 ```
-
   "scripts": {
     "start": "vite",
     "build": "vite build"
   },
+
 ```
 
 Open Terminal with CTRL+J
 
-Type ``npm run build`
+`npm run build`
 
 <p align="center">Copyright &copy; 2023 Shejan Mahamud</p>
