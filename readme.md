@@ -9,8 +9,7 @@ Minimal Portfolio Template For Developers and Designers. Fully Responsive Design
 
 ### Prerequisites
 
-Node JS Installed<br>
-Configure Tailwind CSS with post.css Method
+Node JS Installed
 
 ## Generate Dist Folder Using Below Command
 
